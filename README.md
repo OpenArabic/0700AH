@@ -1,9 +1,10 @@
-# 0700AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]
+# 0700AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]
 
 * 0623Qazwini.Tadwin
-* 0630IbnAthirCizzDin.Kamil
+* 0626YaqutHamawi.MucjamUdaba (TAGS: BIO,COL,POE)
+* 0630IbnAthirCizzDin.Kamil (TAGS: CHR)
 * 0630IbnAthirCizzDin.LubabFiTahdhibAnsab
 * 0642IbnNajjar.DhaylTarikhBaghdad
-* 0658IbnAbbar.TakmilaLiSila
+* 0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL)
 * 0660IbnCadim.BughyatTalib
-* 0681IbnKhallikan.WafayatAcyan
+* 0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL)
