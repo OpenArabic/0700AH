@@ -1,4 +1,4 @@
-# 0700AH [[ [Re]generated on 2016-04-04 (20:23:46) ]]
+# 0700AH [[ [Re]generated on 2016-04-06 (07:40:52) ]]
 
 * `0623Qazwini.Tadwin (TAGS: ...)`
 * `0626YaqutHamawi.MucjamBuldan (TAGS: GEO,COL)`
@@ -23,4 +23,5 @@
 * `0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL,DHB)`
 * `0684IbnShaddad.AclaqKhatira (TAGS: ...)`
 * `0685IbnCibri.TarikhMukhtasarDuwal (TAGS: ...)`
+* `0685IbnSacidMaghribi.Mughrib (TAGS: ...)`
 * `0696Dabbagh.MacalimIman (TAGS: NOT,BIO,COL)`
