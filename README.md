@@ -1,7 +1,9 @@
-# 0700AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
+# 0700AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
 
+* `0606IbnMamati.LataifDhakhira (TAGS: ...,PPE)`
 * `0611CaliHarawi.Isharat (TAGS: ...,GEO,PPE)`
 * `0611SharafDinMuqaddasi.Arbacin (TAGS: ...,PPE)`
+* `0614IbnJubayr.Rihla (TAGS: ...,GEO,PPE)`
 * `0615MuwaffaqDinShafici.MurshidZuwwar (TAGS: ...,PPE,GEO)`
 * `0623Qazwini.Tadwin (TAGS: ...,PPE)`
 * `0626YaqutHamawi.Khazal (TAGS: ...,GEO,PPE)`
@@ -12,9 +14,10 @@
 * `0630IbnAthirCizzDin.Kamil (TAGS: CHR,PPE)`
 * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (TAGS: ONO,COL,PPE)`
 * `0630IbnAthirCizzDin.UsdGhaba (TAGS: ...,PPE)`
+* `0632AbyHafsSuhrawardi.Mashyakha (TAGS: ...,PPE)`
 * `0637IbnMustafwi.TarikhIrbil (TAGS: ...,PPE)`
 * `0639AbuBakrMalaqi.MatlacAnwar (TAGS: ...,PPE)`
-* `0640AbuHafsDunaysiri.TarikhDunaysir (TAGS: ...)`
+* `0640AbuHafsDunaysiri.TarikhDunaysir (TAGS: ...,PPE)`
 * `0641Sarifini.Muntakhab (TAGS: ...,PPE)`
 * `0642IbnNajjar.DhaylTarikhBaghdad (TAGS: BIO,COL,PPE)`
 * `0643DiyaDinMuqaddasi.JuzAwham (TAGS: ...,PPE)`
@@ -28,7 +31,7 @@
 * `0658IbnAbbar.HullaSiyara (TAGS: ...,PPE)`
 * `0658IbnAbbar.MucjamAshab (TAGS: PPE)`
 * `0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL,PPE)`
-* `0658IbnAbbar.TuhfaQadim (TAGS: ...)`
+* `0658IbnAbbar.TuhfaQadim (TAGS: ...,PPE)`
 * `0659SainDinNaccal.Mashyakha (TAGS: ...,PPE)`
 * `0660IbnCadim.BughyatTalib (TAGS: ...,PPE)`
 * `0660IbnCadim.ZubdaHalab (TAGS: ...,PPE)`
@@ -46,6 +49,6 @@
 * `0685IbnSacidMaghribi.Mughrib (TAGS: ...,PPE)`
 * `0690IbnMujawirDimashqi.TarikhMustabsir (TAGS: ...,PPE)`
 * `0694MuhibbDinTabari.Dhakhair (TAGS: ...,PPE)`
-* `0694MuhibbDinTabari.RiyadNadira`
+* `0694MuhibbDinTabari.RiyadNadira (TAGS: ...,PPE)`
 * `0696Dabbagh.MacalimIman (TAGS: NOT,BIO,COL,PPE)`
 * `0696IbnZahiri.Mashyakha (TAGS: ...,PPE)`
