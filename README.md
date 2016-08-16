@@ -1,6 +1,4 @@
-Just testing...
-
-# 0700AH [[ [Re]generated on 2016-08-08 (14:30:29) ]]
+# 0700AH [[ [Re]generated on 2016-08-13 (19:37:26) ]]
 
 * `0606IbnMamati.LataifDhakhira (TAGS: CENT0700,PPE,_TABAQAT,_TARAJIM)`
 * `0611CaliHarawi.Isharat (TAGS: CENT0700,GEO,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
