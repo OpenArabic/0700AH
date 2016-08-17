@@ -13,4 +13,3 @@ The numbering of the biographies sometimes confused in the PDF (and the text). S
 4. Add any comments on the text
 
 Some biographies of the PDF are missing in the text: Vol1: 1309-1325, Vol3: 630, Vol4: 483-485, 502-504
-5 biographies too much tagged
