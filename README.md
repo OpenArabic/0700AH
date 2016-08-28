@@ -1,4 +1,8 @@
-# Status Report (50 titles: 28,293,672 words; 130,688 units; 108,771 bios)
+# Status Report
+ 
+* 50 titles;
+* 28,293,672 words\;n* 130,688 logical units;
+* 108,771 bios.)
 
 ## `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
@@ -64,7 +68,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-08-28 (20:52:10) ]]
+# 0700AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]
 
 * `0606IbnMamati.LataifDhakhira `
     * TAGS: CENT0700,PPE,_TABAQAT,_TARAJIM
