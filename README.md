@@ -106,7 +106,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-10-13 (13:30:06) ]]
+# 0700AH [[ [Re]generated on 2016-10-14 (00:22:56) ]]
 
 * `0606IbnMamati.LataifDhakhira (TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM)`
 * `0611CaliHarawi.Isharat (TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
@@ -168,6 +168,7 @@
 * `0694MuhibbDinTabari.Dhakhair (TAGS: CENT0700, PPE, _ASHAB, _HADITH, _SHAMAIL, _SHICI, _SIRA)`
 * `0694MuhibbDinTabari.RiyadNadira (TAGS: CENT0700, PPE, _ASHAB, _SIRA, _TABAQAT, _TARAJIM)`
 * `0695IbnCidhariMarrakushi.BayanMaghrib (TAGS: CENT0700, _BULDAN, _TARIKH)`
+* `0696CumarSunami.NisabIhtisab (TAGS: CENT0800, _QADA, _SIYASA)`
 * `0696Dabbagh.MacalimIman (TAGS: BIO, CENT0700, COL, ORPHAN, PPE)`
 * `0696IbnZahiri.Mashyakha (TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM)`
 
