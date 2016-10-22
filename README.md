@@ -1,14 +1,14 @@
 ## Status Report
  
-* 87 titles
-* 54,500,407 words
-* 275,122 logical units
+* 90 titles
+* 57,561,691 words
+* 277,944 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 19,094,448 words; 83,848 units; 0 bios)
+### `*.inProgress` (26 titles: 22,088,362 words; 83,793 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,481 words; 3,241 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -27,6 +27,7 @@
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0421Miskawayh.Tajarib (244,209 words; 764 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0728IbnTaymiyya.MajmucFatawa (2,993,811 words; 0 units; 0 bios)`
 - `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,056 words; 2,408 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
@@ -34,7 +35,7 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (42 titles: 26,381,135 words; 109,678 units; 1 bios)
+### `*.completed` (44 titles: 26,448,505 words; 112,555 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
@@ -74,6 +75,8 @@
 - `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 0 bios)`
 - `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 0 bios)`
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
+- `0748Dhahabi.MucinFiTabaqatMuhaddithin (23,129 words; 2,455 units; 0 bios)`
+- `0748Dhahabi.MucjamMuhaddithin (44,241 words; 422 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
@@ -106,7 +109,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-10-19 (14:30:34) ]]
+# 0700AH [[ [Re]generated on 2016-10-22 (17:14:35) ]]
 
 * `0606IbnMamati.LataifDhakhira (TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM)`
 * `0611CaliHarawi.Isharat (TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
@@ -127,6 +130,7 @@
 * `0630IbnAthirCizzDin.UsdGhaba (TAGS: CENT0700, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0632AbyHafsSuhrawardi.Mashyakha (TAGS: CENT0700, PPE, _AJZA, _HADITH)`
 * `0632IsmacilMarwazi.FakhriFiAnsab (TAGS: CENT0700, _BULDAN, _TARIKH)`
+* `0635AbuMunajjaIbnLatti.Mashyakha (TAGS: CENT0700, _AJZA, _HADITH)`
 * `0637IbnAthirDiyaDin.MathalSair (TAGS: CENT0700, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
 * `0637IbnMustafwi.TarikhIrbil (TAGS: CENT0700, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0639AbuBakrMalaqi.MatlacAnwar (TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM)`
@@ -143,6 +147,10 @@
 * `0646IbnQifti.Muhammadun (TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0647CabdWahidMarrakushi.Mucjib (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0650IbnNazifHamawi.TarikhMansuri (TAGS: CENT0700, PPE, _TARIKH)`
+* `0654SibtIbnJawzi.ItharInsaf (TAGS: CENT0700, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `0656IbnAbiHadid.FalakDair (TAGS: CENT0700, _ADAB, _BALAGHA)`
+* `0656IbnAbiHadid.RawdaMukhtara (TAGS: CENT0700, _IMAM, _NABI, _SIRA)`
+* `0656IbnAbiHadid.SharhNahjBalagha (TAGS: CENT0700, _ADAB, _BALAGHA, _FASAHA, _HADITH, _SUNNI)`
 * `0657IbnIbrahimIrbili.MudhakaraFiAlqab (TAGS: CENT0700, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0658IbnAbbar.HullaSiyara (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0658IbnAbbar.MucjamAshab (TAGS: CENT0700, PPE, _AJZA, _HADITH, _TABAQAT, _TARAJIM)`
@@ -155,8 +163,28 @@
 * `0665AbuShama.Rawdatayn (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0668IbnAbiUsaybica.CuyunAnba (TAGS: BIO, CENT0700, COL, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0673AbuMahasinYaghmuri.NurQabas (TAGS: CENT0700, PPE, _MISC, _TABAQAT, _TARAJIM)`
+* `0676Nawawi.AdabFatwa (TAGS: CENT0700, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `0676Nawawi.Adhkar (TAGS: CENT0700, _ADAB, _ADHKAR, _AKHLAQ, _HADITH, _RAQAIQ, _SUNNI, _TAZKIYA)`
+* `0676Nawawi.ArbacunaNawawiyya (TAGS: CENT0700, _ADAB, _ADHKAR, _RAQAIQ)`
+* `0676Nawawi.BustanCarifin (TAGS: CENT0700, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
+* `0676Nawawi.DaqaiqMinhaj (TAGS: CENT0700, _FIQH, _SHAFICI)`
+* `0676Nawawi.IctiqadSalafFiHuruf (TAGS: CENT0700, _CAQAID)`
+* `0676Nawawi.IdahFiManasikHajj (TAGS: CENT0700, _FIQH)`
+* `0676Nawawi.IjazFiSharhSunanAbiDawud (TAGS: CENT0700, _HADITH, _SHARH)`
+* `0676Nawawi.KhulasatAhkam (TAGS: CENT0700, _HADITH, _TAKHRIJ, _TARAJIM)`
+* `0676Nawawi.Majmuc (TAGS: CENT0700, _FIQH, _SHAFICI)`
 * `0676Nawawi.MasailManthura (TAGS: CENT0700, _FATAWA)`
+* `0676Nawawi.MinhajTalibin (TAGS: CENT0700, _FIQH, _SHAFICI)`
+* `0676Nawawi.RawdatTalibin (TAGS: CENT0700, _FIQH, _SHAFICI)`
+* `0676Nawawi.RiyadSalihin (TAGS: CENT0700, _ADAB, _ADHKAR, _AKHLAQ, _HADITH, _MAJMUCAT, _MISC, _RAQAIQ, _SUNNI, _TAZKIYA)`
+* `0676Nawawi.RiyadSalihin (TAGS: CENT0700, _ALBANI)`
+* `0676Nawawi.SharhArbacinaNawawi (TAGS: CENT0700, _HADITH, _SHARH, _TARAJIM)`
+* `0676Nawawi.SharhMuslim (TAGS: CENT0700, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `0676Nawawi.TahdhibAsma (TAGS: CENT0700, PPE, _GHARIB, _LUGHA, _MACAJIM, _MISC, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
+* `0676Nawawi.TahrirAlfaz (TAGS: CENT0700, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT)`
+* `0676Nawawi.Taqrib (TAGS: CENT0700, _CULUM, _HADITH, _MUSTALAHAT)`
+* `0676Nawawi.Tibyan (TAGS: CENT0700, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
+* `0676Nawawi.UsulWaDawabit (TAGS: CENT0700, _FIQH, _QAWACID, _USUL)`
 * `0677SahibTaji.HalbaFiAsmaKhayl (TAGS: CENT0300, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0680IbnSabuni.TakmilaIkmalIkmal (TAGS: CENT0700, ONO, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
 * `0681IbnKhallikan.WafayatAcyan (TAGS: BIO, CENT0700, COL, DHB, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
