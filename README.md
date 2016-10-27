@@ -1,14 +1,14 @@
 ## Status Report
  
-* 91 titles
-* 57,740,638 words
-* 286,381 logical units
+* 94 titles
+* 57,869,947 words
+* 293,494 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 21,995,180 words; 83,335 units; 0 bios)
+### `*.inProgress` (25 titles: 21,995,268 words; 83,295 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,672 words; 3,146 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal (93,184 words; 858 units; 0 bios)`
@@ -34,8 +34,10 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (46 titles: 26,720,634 words; 121,450 units; 1 bios)
+### `*.completed` (49 titles: 26,849,855 words; 128,603 units; 1 bios)
 
+- `0276IbnQutaybaDinawari.AnwaFiMawasim (37,309 words; 104 units; 0 bios)`
+- `0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha (14,816 words; 7 units; 0 bios)`
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
@@ -79,6 +81,7 @@
 - `0748Dhahabi.MucjamShuyukh (152,971 words; 1,025 units; 0 bios)`
 - `0748Dhahabi.MughniFiDucafa (119,158 words; 7,870 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
+- `0748Dhahabi.Muqtana (77,096 words; 7,042 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
 - `1089IbnCimad.Shadharat (1,097,722 words; 1,143 units; 0 bios)`
@@ -110,7 +113,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-10-24 (20:10:57) ]]
+# 0700AH [[ [Re]generated on 2016-10-27 (02:30:03) ]]
 
 * `0604AbuDharrKhushani.ImlaMukhtasar (TAGS: CENT0700, _SHAMAIL, _SIRA)`
 * `0606FakhrDinRazi.Ictiqadat (TAGS: CENT0700, _CAQAID, _FIRAQ, _MILAL)`
@@ -156,6 +159,9 @@
 * `0640AbuHafsDunaysiri.TarikhDunaysir (TAGS: CENT0700, PPE, _AJZA, _HADITH)`
 * `0641Sarifini.Muntakhab (TAGS: CENT0700, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0642IbnNajjar.DhaylTarikhBaghdad (TAGS: BIO, CENT0700, COL, PPE, _BULDAN, _HADITH, _SUNNI, _TARAJIM)`
+* `0643CaliSakhawi.HidayatMurtab (TAGS: CENT0700, _CULUM, _QURAN)`
+* `0643CaliSakhawi.JamalQurra (TAGS: CENT0700, _CULUM, _QURAN)`
+* `0643CaliSakhawi.JamalQurra (TAGS: CENT0700, _CULUM, _QURAN)`
 * `0643DiyaDinMuqaddasi.FadailBaytMaqdis (TAGS: CENT0700, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0643DiyaDinMuqaddasi.JuzAwham (TAGS: CENT0700, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
 * `0643IbnSalahShahrazuri.Fatawa (TAGS: CENT0700, _FIQH, _SHAFICI)`
@@ -181,6 +187,23 @@
 * `0660IbnCadim.BughyatTalib (TAGS: CENT0700, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0660IbnCadim.ZubdaHalab (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0662RashidAttar.NuzhatNazir (TAGS: CENT0700, _AJZA, _HADITH)`
+* `0664IbnTawus.AmanMinAkhtarAsfar (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.BinaMaqalaFatimiyya (TAGS: CENT0700, _CAQAID, _SHICI, _TWELVERS)`
+* `0664IbnTawus.DurucWaqiya (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.FalahSail (TAGS: CENT0700, _IMAM, _NABI, _SIRA)`
+* `0664IbnTawus.FarajMahmum (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.FathAbwab (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.IqbalAcmal (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.JamalUsbuc (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.KashfMahajja (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.LuhufFiQatlaTufuf (TAGS: CENT0700, _IMAM, _NABI, _SIRA)`
+* `0664IbnTawus.MalahimWaFitan (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.MujtanaMinDucaMujtaba (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.QabasMinKitabGhiyath (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.SacdSucud (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.Tahsin (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.TaraifFiMacrifatMadhahib (TAGS: CENT0700, _HADITH, _SHICI)`
+* `0664IbnTawus.Yaqin (TAGS: CENT0700, _HADITH, _SHICI)`
 * `0665AbuShama.Rawdatayn (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0668IbnAbiUsaybica.CuyunAnba (TAGS: BIO, CENT0700, COL, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0673AbuMahasinYaghmuri.NurQabas (TAGS: CENT0700, PPE, _MISC, _TABAQAT, _TARAJIM)`
@@ -215,8 +238,20 @@
 * `0685IbnSacidMaghribi.GhusunYanica (TAGS: BIO, CENT0700, PPE, _TABAQAT, _TARAJIM)`
 * `0685IbnSacidMaghribi.Jughrafiya (TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT)`
 * `0685IbnSacidMaghribi.Mughrib (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
+* `0685IbnSacidMaghribi.Muqtataf (TAGS: CENT0700, _ADAB, _BALAGHA)`
+* `0685IbnSacidMaghribi.MurqisatWaMutribat (TAGS: CENT0700, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0685IbnYahyaSulami.CiqdDurar (TAGS: CENT0700, _CAQAID, _MILAL)`
+* `0685NasirDinBaydawi.AnwarTanzil (TAGS: CENT0700, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
+* `0685NasirDinBaydawi.AnwarTanzil (TAGS: CENT0700, _TAFSIR)`
+* `0686AbuYamanIbnCasakir.AhadithSafar (TAGS: CENT0700, _AJZA, _HADITH)`
+* `0686AbuYamanIbnCasakir.IthafZair (TAGS: CENT0700, _AJZA, _HADITH)`
+* `0686AbuYamanIbnCasakir.JuzFihiAhadithShahrRamadan (TAGS: CENT0700, _AJZA, _HADITH)`
+* `0686IbnZakariyaManbiji.LubabFiJamc (TAGS: CENT0700, _FIQH, _HANAFI)`
+* `0686RadiDinAstarabadhi.SharhRadiCalaKafiya (TAGS: CENT0700, _LUGHA, _NAHW, _SARF)`
+* `0686RadiDinAstarabadhi.SharhShafiyaIbnHajib (TAGS: CENT0700, _LUGHA, _NAHW, _SARF, _SARF)`
 * `0690IbnMujawirDimashqi.TarikhMustabsir (TAGS: CENT0700, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT)`
 * `0691IbnYusufLabli.Fihrist (TAGS: CENT0700, _ADILLA, _FAHARIS, _KUTUB)`
+* `0692TaqiDinIscirdi.FadailKitabJamic (TAGS: CENT0700, _CULUM, _HADITH, _MUSTALAHAT, _SUNNI)`
 * `0693IbnAbiFathIrbili.KashfGhumma (TAGS: CENT0700, PPE, _IMAM, _NABI, _SIRA)`
 * `0694MuhibbDinTabari.Dhakhair (TAGS: CENT0700, PPE, _ASHAB, _HADITH, _SHAMAIL, _SHICI, _SIRA)`
 * `0694MuhibbDinTabari.RiyadNadira (TAGS: CENT0700, PPE, _ASHAB, _SIRA, _TABAQAT, _TARAJIM)`
