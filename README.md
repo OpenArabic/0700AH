@@ -114,7 +114,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-11-01 (16:59:19) ]]
+# 0700AH [[ [Re]generated on 2016-11-03 (00:32:50) ]]
 
 * `0604AbuDharrKhushani.ImlaMukhtasar (TAGS: CENT0700, _SHAMAIL, _SIRA)`
 * `0606FakhrDinRazi.Ictiqadat (TAGS: CENT0700, _CAQAID, _FIRAQ, _MILAL)`
@@ -139,6 +139,23 @@
 * `0616MuhibbDinCukbari.SharhDiwanMutanabbi (TAGS: CENT0700, _ADAB, _ADAB, _BALAGHA, _SHICR)`
 * `0616MuhibbDinCukbari.TibyanFiIcrabQuran (TAGS: CENT0700, _CULUM, _ICRAB, _MISC, _QURAN, _TAFSIR)`
 * `0617MansurIbnShahanshah.MidmarHaqaiq (TAGS: CENT0700, PPE, _MISC, _TARIKH)`
+* `0620IbnQudamaMaqdisi.BulghatTalibHathith (TAGS: CENT0700, _HADITH, _MAKHTUTAT)`
+* `0620IbnQudamaMaqdisi.CujmdatFiqh (TAGS: CENT0600, CENT0700, _CHRONOMULTIPLE, _FIQH, _HANBALI)`
+* `0620IbnQudamaMaqdisi.DhammTawil (TAGS: CENT0700, _AJZA, _CAQAID, _HADITH, _MILAL)`
+* `0620IbnQudamaMaqdisi.FadlYawmTarwiyya (TAGS: CENT0700, _HADITH, _MAKHTUTAT)`
+* `0620IbnQudamaMaqdisi.HikayatMunazara (TAGS: CENT0700, _CAQAID, _CULUM, _HADITH, _QURAN, _TAFSIR)`
+* `0620IbnQudamaMaqdisi.IthbatSifatCuluww (TAGS: CENT0700, _AJZA, _CAQAID, _HADITH, _MILAL)`
+* `0620IbnQudamaMaqdisi.KafiFiFiqh (TAGS: CENT0700, _FIQH, _HANBALI)`
+* `0620IbnQudamaMaqdisi.LumcatIctiqad (TAGS: CENT0700, _CAQAID, _HADITH, _MILAL)`
+* `0620IbnQudamaMaqdisi.MughniFiFiqh (TAGS: CENT0700, _FIQH, _HANBALI, _USUL)`
+* `0620IbnQudamaMaqdisi.MuntakhabMinCilal (TAGS: CENT0700, _AJZA, _HADITH)`
+* `0620IbnQudamaMaqdisi.MutahabbinFiLlah (TAGS: CENT0700, _AJZA, _AKHLAQ, _HADITH)`
+* `0620IbnQudamaMaqdisi.RawdatNazir (TAGS: CENT0700, _FIQH, _QAWACID, _USUL)`
+* `0620IbnQudamaMaqdisi.RiqqaWaBuka (TAGS: CENT0700, _AJZA, _HADITH)`
+* `0620IbnQudamaMaqdisi.RisalaFiQuran (TAGS: CENT0700, _CAQAID)`
+* `0620IbnQudamaMaqdisi.SharhKitabSiyam (TAGS: CENT0700, _FIQH, _HANBALI)`
+* `0620IbnQudamaMaqdisi.TahrimNazar (TAGS: CENT0700, _CAQAID, _MILAL)`
+* `0620IbnQudamaMaqdisi.Tawwabin (TAGS: CENT0700, _ADAB, _ADHKAR, _AKHLAQ, _HADITH, _MISC, _RAQAIQ, _SULUK, _SUNNI)`
 * `0623Qazwini.Tadwin (TAGS: CENT0700, PPE, _BULDAN, _HADITH, _TARAJIM, _TARIKH)`
 * `0626YaqutHamawi.Khazal (TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `0626YaqutHamawi.MucjamBuldan (TAGS: CENT0700, COL, GEO, PPE, _ANSAB, _BULDAN, _FAHARIS, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT)`
