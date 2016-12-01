@@ -138,7 +138,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
+# 0700AH [[ [Re]generated on 2016-12-01 (13:36:39) ]]
 
 * `0604AbuDharrKhushani.ImlaMukhtasar (TAGS: CENT0700, _SHAMAIL, _SIRA)`
 * `0606FakhrDinRazi.Ictiqadat (TAGS: CENT0700, _CAQAID, _FIRAQ, _MILAL)`
@@ -276,6 +276,7 @@
 * `0664IbnTawus.Yaqin (TAGS: CENT0700, _HADITH, _SHICI)`
 * `0665AbuShama.Rawdatayn (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0668IbnAbiUsaybica.CuyunAnba (TAGS: BIO, CENT0700, COL, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0673AbuMacaliQunawi.MiftahGhayb (TAGS: CENT0700, _CIRFAN, _FALSAFA, _MANTIQ)`
 * `0673AbuMahasinYaghmuri.NurQabas (TAGS: CENT0700, PPE, _MISC, _TABAQAT, _TARAJIM)`
 * `0676Nawawi.AdabFatwa (TAGS: CENT0700, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
 * `0676Nawawi.Adhkar (TAGS: CENT0700, _ADAB, _ADHKAR, _AKHLAQ, _HADITH, _RAQAIQ, _SUNNI, _TAZKIYA)`
