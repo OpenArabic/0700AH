@@ -138,7 +138,7 @@
 
 
 
-# 0700AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
+# 0700AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
 
 * `0604AbuDharrKhushani.ImlaMukhtasar (TAGS: CENT0700, _SHAMAIL, _SIRA)`
 * `0606FakhrDinRazi.Ictiqadat (TAGS: CENT0700, _CAQAID, _FIRAQ, _MILAL)`
@@ -193,6 +193,8 @@
 * `0630IbnAthirCizzDin.UsdGhaba (TAGS: CENT0700, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0632AbyHafsSuhrawardi.Mashyakha (TAGS: CENT0700, PPE, _AJZA, _HADITH)`
 * `0632IsmacilMarwazi.FakhriFiAnsab (TAGS: CENT0700, _BULDAN, _TARIKH)`
+* `0634AbuRabicHimyari.Iktifa (TAGS: CENT0700, _ASHAB, _SHAMAIL, _SIRA)`
+* `0634AbuRabicHimyari.Musalsalat (TAGS: CENT0700, _AJZA, _HADITH)`
 * `0635AbuMunajjaIbnLatti.Mashyakha (TAGS: CENT0700, _AJZA, _HADITH)`
 * `0637IbnAthirDiyaDin.JamicKabir (TAGS: CENT0700, _ADAB, _BALAGHA)`
 * `0637IbnAthirDiyaDin.MathalSair (TAGS: CENT0700, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
@@ -276,6 +278,10 @@
 * `0664IbnTawus.Yaqin (TAGS: CENT0700, _HADITH, _SHICI)`
 * `0665AbuShama.Rawdatayn (TAGS: CENT0700, PPE, _BULDAN, _TARIKH)`
 * `0668IbnAbiUsaybica.CuyunAnba (TAGS: BIO, CENT0700, COL, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0671ShamsDinQurtubi.IclamBimaFiDinNasara (TAGS: CENT0700, _CAQAID, _FIRAQ, _MILAL)`
+* `0671ShamsDinQurtubi.JamicLiAhkamQuran (TAGS: CENT0700, _AHKAM, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
+* `0671ShamsDinQurtubi.TacliqCalaTafsir (TAGS: CENT0700, _QURAN, _TAFSIR)`
+* `0671ShamsDinQurtubi.TadhkiraiAhwalMuta (TAGS: CENT0700, _ADAB, _ADHKAR, _RAQAIQ)`
 * `0673AbuMacaliQunawi.MiftahGhayb (TAGS: CENT0700, _CIRFAN, _FALSAFA, _MANTIQ)`
 * `0673AbuMahasinYaghmuri.NurQabas (TAGS: CENT0700, PPE, _MISC, _TABAQAT, _TARAJIM)`
 * `0676Nawawi.AdabFatwa (TAGS: CENT0700, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
